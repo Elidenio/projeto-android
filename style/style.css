@@ -154,6 +154,7 @@ a.externo::after{
 
 a.externo:hover::after{
     content: " 🖱️";
+    
 }
 
 main a {
