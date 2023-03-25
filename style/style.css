@@ -8,9 +8,6 @@
     font-weight: normal;
 }
 
-* { padding: 0;
-    margin: 0;
-}
 
 :root{
     --cor0: #c5ebd6;
@@ -23,6 +20,10 @@
     --font-padrao: arial, verdana, helvetica, sans-serif;
     --font-destaque: 'Bebas Neue', cursive;
     --font-android: 'Android', cursive;
+}
+
+* { padding: 0;
+    margin: 0;
 }
 
 body {
